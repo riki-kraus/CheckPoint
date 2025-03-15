@@ -12,20 +12,21 @@ namespace CheckPoint.Core.Entities
         public string Title { get; set; }
         public string Subject { get; set; }
         public string Class { get; set; }
-        public string DateCreated { get; set; }
-        public string Url { get; set; }
-        public int StudentId { get; set; }
+        public DateTime DateCreated { get; set; }
         // בבנאי האם הכלה ומה עם מבחן של המנהל
-        public int MyProperty { get; set; }
-        public Exam(int id, string title, string subject, string @class, string dateCreated, string url)
+        public List<Submission> Submissions { get; set; }
+        public List<Answer> Answers { get; set; } = new List<Answer>();
+       public Exam() { }
+
+        public Exam(int id, string title, string subject, string @class, DateTime dateCreated, List<Submission> submissions, List<Answer> answers)
         {
             Id = id;
             Title = title;
             Subject = subject;
             Class = @class;
             DateCreated = dateCreated;
-            Url = url;
-
+            Submissions = submissions;
+            Answers = answers;
         }
     }
 }

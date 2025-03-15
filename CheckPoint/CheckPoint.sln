@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35728.132 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.API", "CheckPoint.API\CheckPoint.API.csproj", "{FF32D1BE-8A78-4EB6-87EC-B062A442AC6A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.API", "CheckPoint.API\CheckPoint.API.csproj", "{E21BD569-71EA-448D-865F-A63D2CDF377F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.Core", "CheckPoint.Core\CheckPoint.Core.csproj", "{540A30AB-BA50-4B2D-8FFE-1C1A689B8647}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.Core", "CheckPoint.Core\CheckPoint.Core.csproj", "{1B6088DD-4227-4290-A62C-E175F430DFFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.Data", "CheckPoint.Data\CheckPoint.Data.csproj", "{5191E5F6-01A0-4749-BFEC-3D355154AA3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.Data", "CheckPoint.Data\CheckPoint.Data.csproj", "{1BE6C572-AE15-44D4-AE33-3C2CB83BCE07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.Service", "CheckPoint.Service\CheckPoint.Service.csproj", "{DE613826-5C54-410B-9E8A-C54928A54BCB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPoint.Service", "CheckPoint.Service\CheckPoint.Service.csproj", "{D45CBADD-16E3-473E-AF91-E983ECEAE65B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF32D1BE-8A78-4EB6-87EC-B062A442AC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF32D1BE-8A78-4EB6-87EC-B062A442AC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF32D1BE-8A78-4EB6-87EC-B062A442AC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF32D1BE-8A78-4EB6-87EC-B062A442AC6A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{540A30AB-BA50-4B2D-8FFE-1C1A689B8647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{540A30AB-BA50-4B2D-8FFE-1C1A689B8647}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{540A30AB-BA50-4B2D-8FFE-1C1A689B8647}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{540A30AB-BA50-4B2D-8FFE-1C1A689B8647}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5191E5F6-01A0-4749-BFEC-3D355154AA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5191E5F6-01A0-4749-BFEC-3D355154AA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5191E5F6-01A0-4749-BFEC-3D355154AA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5191E5F6-01A0-4749-BFEC-3D355154AA3D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DE613826-5C54-410B-9E8A-C54928A54BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE613826-5C54-410B-9E8A-C54928A54BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE613826-5C54-410B-9E8A-C54928A54BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE613826-5C54-410B-9E8A-C54928A54BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21BD569-71EA-448D-865F-A63D2CDF377F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21BD569-71EA-448D-865F-A63D2CDF377F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21BD569-71EA-448D-865F-A63D2CDF377F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21BD569-71EA-448D-865F-A63D2CDF377F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6088DD-4227-4290-A62C-E175F430DFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6088DD-4227-4290-A62C-E175F430DFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6088DD-4227-4290-A62C-E175F430DFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6088DD-4227-4290-A62C-E175F430DFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE6C572-AE15-44D4-AE33-3C2CB83BCE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE6C572-AE15-44D4-AE33-3C2CB83BCE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE6C572-AE15-44D4-AE33-3C2CB83BCE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE6C572-AE15-44D4-AE33-3C2CB83BCE07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45CBADD-16E3-473E-AF91-E983ECEAE65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45CBADD-16E3-473E-AF91-E983ECEAE65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45CBADD-16E3-473E-AF91-E983ECEAE65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45CBADD-16E3-473E-AF91-E983ECEAE65B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

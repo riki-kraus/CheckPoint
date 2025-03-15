@@ -1,3 +1,5 @@
+
+using CheckPoint.Core;
 using CheckPoint.Core.IRepositories;
 using CheckPoint.Core.Services;
 using CheckPoint.Data;
@@ -13,19 +15,23 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
 });
-builder.Services.AddScoped<IUserService, UserService>();
-builder.Services.AddScoped<IResultService, ResultService>();
+builder.Services.AddScoped<IManagerService, ManagerService>();
+builder.Services.AddScoped<IStudentService, StudentService>();
+builder.Services.AddScoped<ISubmissionService, SubmissionService>();
 builder.Services.AddScoped<IExamService, ExamService>();
 builder.Services.AddScoped<IAnswerService, AnswerService>();
 
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IResultRepository, ResultRepository>();
+builder.Services.AddScoped<IManagerRepository, ManagerRepository>();
+builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+builder.Services.AddScoped<ISubmissionRepository, SubmissionRepository>();
 builder.Services.AddScoped<IExamRepository, ExamRepository>();
 builder.Services.AddScoped<IAnswerRepository, AnswerRepository>();
-builder.Services.AddSingleton<DataContext>();
+builder.Services.AddScoped<IRepositoryManager, RepositoryManager>();
+builder.Services.AddDbContext<DataContext>();
+
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-
+builder.Services.AddAutoMapper(typeof(MappingProfile));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

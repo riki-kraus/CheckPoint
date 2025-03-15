@@ -20,21 +20,25 @@ namespace CheckPoint.Data.Repositories
 
         public Exam GetById(int id)
         {
-            return _context.exams.FirstOrDefault(e => e.Id == id);
+            return _context.Exams.FirstOrDefault(e => e.Id == id);
         }
         //מבחן לפי מזהה
 
-        public List<Exam> GetByStudentId(int studentId)
-        {
-            return _context.exams.Where(e => e.StudentId == studentId).ToList();
-        }
+        //public List<Exam> GetByStudentId(int studentId)
+        //{
+        //    return _context.exams.Where(e => e.StudentId == studentId).ToList();
+        //}
         //מבחנים לפי תלמיד
 
         public List<Exam> GetByClassAndByTitle(string @class,string title)
         {
-            return _context.exams.Where(e=>e.Class==@class&&e.Title==title).ToList();
+            return _context.Exams.Where(e=>e.Class==@class&&e.Title==title).ToList();
         }
         //מבחן לפי כיתה ולפי נושא: C, ה3
         //??
+        public void Add(Exam exam)
+        {
+            _context.Exams.Add(exam);
+        }
     }
 }

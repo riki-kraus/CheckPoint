@@ -10,7 +10,8 @@ namespace CheckPoint.Core.IRepositories
     public interface IExamRepository
     {
         Exam GetById(int id);
-        List<Exam> GetByStudentId(int studentId);
+       // List<Exam> GetByStudentId(int studentId);
         List<Exam> GetByClassAndByTitle(string @class, string title);
+        void Add(Exam exam);
     }
 }

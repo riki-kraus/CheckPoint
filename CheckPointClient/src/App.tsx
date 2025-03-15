@@ -1,35 +1,28 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React, { useState } from 'react';
+import OCRComponent from './OCRComponent';
+import AnswerChecker from './AnswerChecker';
 
-function App() {
-  const [count, setCount] = useState(0)
+const App = () => {
+  const [extractedText, setExtractedText] = useState('');
+
+  // מפתח תשובות לדוגמה
+  const answerKey = {
+    1: 'A',
+    2: 'C',
+    3: 'B',
+    4: 'D',
+    5: 'A',
+    // הוסף את כל התשובות הנכונות כאן
+  };
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
-}
+    <div>
+      <Rt/>
+      <h1>מערכת בדיקת מבחנים אמריקאיים</h1>
+      <OCRComponent onExtractedText={setExtractedText} />
+      <AnswerChecker extractedText={extractedText} answerKey={answerKey} />
+    </div>
+  );
+};
 
-export default App
+export default App;

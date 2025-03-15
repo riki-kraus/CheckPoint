@@ -1,0 +1,631 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Data\\DataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\CheckPoint.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Data\\CheckPoint.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\net core\\\u05E9\u05D9\u05E2\u05D5\u05E8 8\\MatchMaking\\Controllers\\MeetingController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\CheckPoint.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\CheckPoint.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\AnswerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Data\\Repositories\\AnswerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\CheckPoint.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\CheckPoint.API.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ExamRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Data\\Repositories\\ExamRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ManagerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Data\\Repositories\\ManagerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ResultRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Data\\Repositories\\ResultRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Data\\Repositories\\StudentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ExamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\Controllers\\ExamController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ResultController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\Controllers\\ResultController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Services\\IStudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Service\\ResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IManagerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Services\\IManagerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\AnswerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\Controllers\\AnswerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ManagerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Service\\ManagerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ManagerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.API\\Controllers\\ManagerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Service\\StudentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Services\\IResultService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IManagerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\IRepositories\\IManagerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ExamService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Service\\ExamService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IResultRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\IRepositories\\IResultRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IExamRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\IRepositories\\IExamRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Entities\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Entities\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\AnswerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Service\\AnswerService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IExamService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Services\\IExamService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IAnswerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\IRepositories\\IAnswerRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Entities\\Result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CheckPoint.Core\\Entities\\Answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Program.cs",
+              "RelativeDocumentMoniker": "CheckPoint.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Program.cs",
+              "RelativeToolTip": "CheckPoint.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T22:35:26.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnswerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\AnswerRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Data\\Repositories\\AnswerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\AnswerRepository.cs",
+              "RelativeToolTip": "CheckPoint.Data\\Repositories\\AnswerRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:52:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CheckPoint.API.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\CheckPoint.API.csproj",
+              "RelativeDocumentMoniker": "CheckPoint.API\\CheckPoint.API.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\CheckPoint.API.csproj",
+              "RelativeToolTip": "CheckPoint.API\\CheckPoint.API.csproj",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T21:32:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ExamRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Data\\Repositories\\ExamRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ExamRepository.cs",
+              "RelativeToolTip": "CheckPoint.Data\\Repositories\\ExamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T23:46:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\DataContext.cs",
+              "RelativeToolTip": "CheckPoint.Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:34:18.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CheckPoint.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\appsettings.json",
+              "RelativeToolTip": "CheckPoint.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T21:52:52.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckPoint.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\CheckPoint.Data.csproj",
+              "RelativeDocumentMoniker": "CheckPoint.Data\\CheckPoint.Data.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\CheckPoint.Data.csproj",
+              "RelativeToolTip": "CheckPoint.Data\\CheckPoint.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T21:05:43.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckPoint.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\CheckPoint.Core.csproj",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\CheckPoint.Core.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\CheckPoint.Core.csproj",
+              "RelativeToolTip": "CheckPoint.Core\\CheckPoint.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-12T22:09:43.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ManagerRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Data\\Repositories\\ManagerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ManagerRepository.cs",
+              "RelativeToolTip": "CheckPoint.Data\\Repositories\\ManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:10:02.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ResultRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Data\\Repositories\\ResultRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\ResultRepository.cs",
+              "RelativeToolTip": "CheckPoint.Data\\Repositories\\ResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:41:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Data\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Data\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "CheckPoint.Data\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:41:07.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "CheckPoint.API\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "CheckPoint.API\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:28:55.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CheckPoint.API\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CheckPoint.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:58:28.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResultController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ResultController.cs",
+              "RelativeDocumentMoniker": "CheckPoint.API\\Controllers\\ResultController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ResultController.cs",
+              "RelativeToolTip": "CheckPoint.API\\Controllers\\ResultController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:25:17.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IStudentService.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:41:53.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResultService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ResultService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Service\\ResultService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ResultService.cs",
+              "RelativeToolTip": "CheckPoint.Service\\ResultService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:59:53.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IManagerService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Services\\IManagerService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IManagerService.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Services\\IManagerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:51:58.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AnswerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\AnswerController.cs",
+              "RelativeDocumentMoniker": "CheckPoint.API\\Controllers\\AnswerController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\AnswerController.cs",
+              "RelativeToolTip": "CheckPoint.API\\Controllers\\AnswerController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:32:53.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ManagerService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Service\\ManagerService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ManagerService.cs",
+              "RelativeToolTip": "CheckPoint.Service\\ManagerService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:33:05.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CheckPoint.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CheckPoint.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T00:18:33.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "CheckPoint.API\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.API\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "CheckPoint.API\\Controllers\\ManagerController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA1wCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:06:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Service\\StudentService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\StudentService.cs",
+              "RelativeToolTip": "CheckPoint.Service\\StudentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:33:23.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IResultService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IResultService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Services\\IResultService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IResultService.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Services\\IResultService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:58:32.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IManagerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IManagerRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\IRepositories\\IManagerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IManagerRepository.cs",
+              "RelativeToolTip": "CheckPoint.Core\\IRepositories\\IManagerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T19:27:12.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ExamService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Service\\ExamService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\ExamService.cs",
+              "RelativeToolTip": "CheckPoint.Service\\ExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T22:59:28.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IResultRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IResultRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\IRepositories\\IResultRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IResultRepository.cs",
+              "RelativeToolTip": "CheckPoint.Core\\IRepositories\\IResultRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:01:03.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IExamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IExamRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\IRepositories\\IExamRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IExamRepository.cs",
+              "RelativeToolTip": "CheckPoint.Core\\IRepositories\\IExamRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:02:19.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Student.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:53:03.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Manager.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Entities\\Manager.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Manager.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Entities\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:52:25.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\User.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:43:36.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AnswerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\AnswerService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Service\\AnswerService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Service\\AnswerService.cs",
+              "RelativeToolTip": "CheckPoint.Service\\AnswerService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:08:47.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IExamService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IExamService.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Services\\IExamService.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Services\\IExamService.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Services\\IExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:57:40.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAnswerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IAnswerRepository.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\IRepositories\\IAnswerRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\IRepositories\\IAnswerRepository.cs",
+              "RelativeToolTip": "CheckPoint.Core\\IRepositories\\IAnswerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:03:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Result.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Entities\\Result.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Result.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Entities\\Result.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:24:23.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Answer.cs",
+              "RelativeDocumentMoniker": "CheckPoint.Core\\Entities\\Answer.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\\u05D1\u05E2\u05D6\u05D4 \u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05DD \u05E4\u05D5\u05DC\u05E1\u05D8\u05D0\u05E7\\CheckPoint\\CheckPoint.Core\\Entities\\Answer.cs",
+              "RelativeToolTip": "CheckPoint.Core\\Entities\\Answer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAxwBEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:49:29.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeetingController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\net core\\\u05E9\u05D9\u05E2\u05D5\u05E8 8\\MatchMaking\\Controllers\\MeetingController.cs",
+              "RelativeDocumentMoniker": "..\\..\\net core\\\u05E9\u05D9\u05E2\u05D5\u05E8 8\\MatchMaking\\Controllers\\MeetingController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05E9\u05E4\u05D4 \u05D1\u05E2\u05D6\u05D4\\net core\\\u05E9\u05D9\u05E2\u05D5\u05E8 8\\MatchMaking\\Controllers\\MeetingController.cs",
+              "RelativeToolTip": "..\\..\\net core\\\u05E9\u05D9\u05E2\u05D5\u05E8 8\\MatchMaking\\Controllers\\MeetingController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T01:21:21.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

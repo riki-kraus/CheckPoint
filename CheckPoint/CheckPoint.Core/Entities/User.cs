@@ -6,22 +6,21 @@ using System.Threading.Tasks;
 
 namespace CheckPoint.Core.Entities
 {
-    public class User
+    public abstract class User
     {
         public int Id { get; set; } // מפתח ראשי
         public string UserName { get; set; }
         public string Email { get; set; }
-        public string PasswordHash { get; set; } // hash של הסיסמה
+        public string Password { get; set; } // hash של הסיסמה
                               // public string Role { get; set; }
-        public string Class { get; set; }
-
-        public User(int id, string userName, string email, string passwordHash, string @class)
+        public User() { }
+        public User(int id, string userName, string email, string password)
         {
             Id = id;
             UserName = userName;
             Email = email;
-            PasswordHash = passwordHash;
-            Class = @class;
+            Password = password;
         }
+
     }
 }

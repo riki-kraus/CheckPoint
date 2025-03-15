@@ -9,18 +9,23 @@ namespace CheckPoint.Core.Entities
     public class Answer
     {
         public int Id { get; set; }
-        public int NumAns { get; set; }
+        public int QesNumber { get; set; }
         public int Content { get; set; }
         public int ExamId { get; set; }
+        public Exam Exam { get; set; }
+
         //הכלה?
         public double Score { get; set; }
 
-        public Answer(int id, int numAns, int content, int examId, double score)
+       public Answer() { }
+
+        public Answer(int id, int qesNumber, int content, int examId, Exam exam, double score)
         {
             Id = id;
-            NumAns = numAns;
+            QesNumber = qesNumber;
             Content = content;
             ExamId = examId;
+            Exam = exam;
             Score = score;
         }
     }

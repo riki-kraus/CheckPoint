@@ -1,5 +1,8 @@
-﻿using CheckPoint.Core.Entities;
+﻿using AutoMapper;
+using CheckPoint.Core.Entities;
 using CheckPoint.Core.Services;
+using CheckPoint.Service;
+using ExamAI.Core.DTOs;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -11,6 +14,14 @@ namespace CheckPoint.API.Controllers
     public class ExamController : ControllerBase
     {
         private readonly IExamService _examService;
+        private readonly IMapper _mapper;
+
+        public ExamController(IExamService examService, IMapper mapper)
+        {
+            _examService = examService;
+            _mapper = mapper;
+        }
+
 
         // GET: api/<ExamController>
         //[HttpGet]
@@ -24,26 +35,30 @@ namespace CheckPoint.API.Controllers
         public ActionResult Get(int id)
         {
             var exam = _examService.GetById(id);
-            return Ok(exam);
+            var examDto = _mapper.Map<ExamDto>(exam);
+            return Ok(examDto);
         }
 
-        [HttpGet("byStudent/{studentId}")]
-        public ActionResult GetByStudentId(int studentId)
-        {
-            var exam = _examService.GetByStudentId(studentId);
-            return Ok(exam);
-        }
+        //[HttpGet("byStudent/{studentId}")]
+        //public ActionResult GetByStudentId(int studentId)
+        //{
+        //    var exam = _examService.GetByStudentId(studentId);
+        //    return Ok(exam);
+        //}
       
         [HttpGet("{@class}/{title}")]
         public ActionResult GetByStudentId(string @class,string title)
         {
             var list = _examService.GetByClassAndByTitle(@class,title);
-            return Ok(list);
+            var listDto = _mapper.Map<IEnumerable<ExamDto>>(list);
+            return Ok(listDto);
         }
         // POST api/<ExamController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public void Post([FromBody] ExamDto newExamDto)
         {
+            var newExam = _mapper.Map<Exam>(newExamDto);
+            _examService.Add(newExam);
         }
 
         // PUT api/<ExamController>/5

@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Data.deps.json
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Data.dll
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Data.pdb
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Core.dll
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Core.pdb
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoi.B9E892BA.Up2Date
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.dll
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\refint\CheckPoint.Data.dll
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.pdb
+C:\Users\User\source\repos\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\ref\CheckPoint.Data.dll
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Data.deps.json
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Data.runtimeconfig.json
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Data.dll
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Data.pdb
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Core.dll
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\bin\Debug\net9.0\CheckPoint.Core.pdb
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.AssemblyInfo.cs
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.sourcelink.json
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoi.B9E892BA.Up2Date
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.dll
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\refint\CheckPoint.Data.dll
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.pdb
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\CheckPoint.Data.genruntimeconfig.cache
+C:\Users\User\Documents\תשפה בעזה\בעזה פרקטיקום פולסטאק\CheckPoint\CheckPoint.Data\obj\Debug\net9.0\ref\CheckPoint.Data.dll

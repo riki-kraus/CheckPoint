@@ -12,11 +12,14 @@ namespace CheckPoint.Service
     public class AnswerService: IAnswerService
     {
         private readonly IAnswerRepository _answerRepository;
+        private readonly IRepositoryManager _repositoryManager;
 
-        public AnswerService(IAnswerRepository answerRepository)
-        {
-            _answerRepository = answerRepository;
+        public AnswerService(IAnswerRepository answerRepository, IRepositoryManager repositoryManager) 
+        {    _answerRepository = answerRepository;
+            _repositoryManager = repositoryManager;
         }
+
+      
         public Answer GetAnsById(int id)
         {
             return _answerRepository.GetAnsById(id);
@@ -33,5 +36,11 @@ namespace CheckPoint.Service
             return _answerRepository.GetAnsByExamAndNum(examId,numAns);
         }
         //קבלת תשובה מסוימת של מבחן מסוים
+        public void Add(Answer answer)
+        {
+            _answerRepository.Add(answer);
+            _repositoryManager.Save();
+
+        }
     }
 }
